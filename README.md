@@ -39,5 +39,3 @@ Future Improvements
 * Add more real-world datasets
 * Include advanced Pandas operations
 * Add mini projects for practice
-
-Feel free to explore the notebook and use it as a reference while learning Pandas. 🙂
